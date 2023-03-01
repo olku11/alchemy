@@ -1,4 +1,4 @@
-from data import db_session
+import db_session
 from flask import Flask
 import sqlalchemy
 import datetime
